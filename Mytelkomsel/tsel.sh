@@ -22,8 +22,10 @@ ___________________________________________________________
     ██║   ██║  ██║   ██║   ███████║╚██████╔╝██║ ╚═╝ ██║██║
     ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝
   
-  	           MyTelkomsel Account Checker   
-  	              www.tatsumi-crew.net 
+  	       MyTelkomsel Account Checker   
+  	       Code By: Arvan Apriyana
+               Recoded By: DayatEswee
+                 www.tatsumi-crew.net
 ___________________________________________________________
 
 "
