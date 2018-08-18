@@ -1,7 +1,7 @@
 <h1>HOW TO INSTALL</h1>
 <br>
 git clone https://github.com/dayat1337/ceker/
-<br>cd Amazon < untuk valid apple checker
+<br>cd Amazon < untuk valid amazon checker
 
 Format list <br>
 PHD Account Checker : email:pass<br>
