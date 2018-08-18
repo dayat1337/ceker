@@ -32,6 +32,7 @@ printf "${GREEN}
          ------------------------------------
                  PHD ACCOUNT CHECKER
                Code By: Arvan Apriyana
+               Recoded By: DayatEswee
                  www.tatsumi-crew.net
          ------------------------------------
 "
