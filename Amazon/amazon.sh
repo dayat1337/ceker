@@ -31,6 +31,7 @@ printf "${GREEN}
          ------------------------------------
                 Amazon Valid CheckerS 
                Code By: Arvan Apriyana
+               Recoded By: DayatEswee
                  www.tatsumi-crew.net
          ------------------------------------
 "
